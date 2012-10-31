@@ -5,7 +5,7 @@
 import re
 import os
 import sys
-import time
+import time 
 
 
 class Benchmark (object): 

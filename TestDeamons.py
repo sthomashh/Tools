@@ -22,7 +22,7 @@ class TestDeamons:
         self.log.info("added param:  %s" % param)
         
         
-    def startTest(self):
+    def startTest(self): 
          for deamon in self.deamons:
              #print deamon
              cmd = "ps aux|egrep -i "+deamon+"|wc -l"
