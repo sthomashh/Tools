@@ -2,7 +2,7 @@
 #
 # @author:    Sven Thomas, sthomas@gwdg.de
         
-#
+# you can set up your project quotas by: nova-manage project quota projectname --key=instances --value=500 
 
 import re
 import os
@@ -11,7 +11,7 @@ import time
 #import time
 
 
-debug = 1
+debug = False
 #####################################################################################
 from Benchmark import Benchmark 
 
@@ -23,11 +23,11 @@ if identityfile == "":
     
 cmd = 'source '+identityfile    
 print cmd
-if(not debug): print os.system(cmd)
+if(debug==False): print os.system(cmd)
     
 cmd = '/usr/bin/glance index'
 print cmd + ":"
-if(not debug): print os.system(cmd)
+if(debug==False): print os.system(cmd)
 
 
 
@@ -68,7 +68,7 @@ else:
 
 
 B1 = Benchmark()
-B1.debug = 1
+B1.debug = False
 
 B1.vm_amount = vm_amount
 B1.flavor = flavor
@@ -79,9 +79,9 @@ B1.startVMs()
 
 
 image_ids = B1.getImageIds()
-
+print "\nFor deletion of the started vms, use the these commands (copy/paste):\n"   
 for id in image_ids:
-    print "nova delete "+id+"\n"
+    print "nova delete "+id 
 
 
 

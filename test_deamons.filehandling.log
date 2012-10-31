@@ -1,0 +1,288 @@
+2012-10-31 13:52:42,991 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:52:42,991 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:52:43,016 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,016 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:52:43,016 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:52:43,016 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:52:43,031 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,031 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:52:43,031 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:52:43,031 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:52:43,049 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,049 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:52:43,049 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:52:43,049 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:52:43,062 - test_deamons.log - INFO - test:  8
+2012-10-31 13:52:43,062 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:52:43,063 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:52:43,063 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:52:43,063 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:52:43,063 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:52:43,078 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,078 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:52:43,079 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:52:43,108 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:52:43,127 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,127 - test_deamons.log - INFO - test:  2
+2012-10-31 13:52:43,128 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:52:43,128 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:52:43,128 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:52:43,128 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:52:43,129 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:52:43,129 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:52:43,148 - test_deamons.log - INFO - test:  8
+2012-10-31 13:52:43,148 - test_deamons.log - INFO - test:  8
+2012-10-31 13:52:43,149 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:52:43,149 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:08,719 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:08,719 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:08,736 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,737 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:08,737 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:08,737 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:08,751 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,751 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:08,752 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:08,752 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:08,765 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,766 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:08,766 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:08,766 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:08,782 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:08,783 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:08,783 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:08,783 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:08,783 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:08,783 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:08,813 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,813 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:08,814 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:08,829 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:08,849 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:08,864 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:08,864 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:08,864 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:08,864 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:53,002 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:53,002 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:53,023 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,023 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:53,023 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:53,023 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:53,038 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,039 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:53,039 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:53,039 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:53,054 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,054 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:53,055 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:53,055 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:53,070 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:53,070 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:53,070 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:53,070 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:54:53,070 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:53,070 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:54:53,082 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,082 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:53,083 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:54:53,105 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,105 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,105 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:53,105 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:54:53,106 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:53,106 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:54:53,106 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:53,106 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:54:53,122 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,122 - test_deamons.log - INFO - test:  2
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:53,124 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:54:53,141 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:53,141 - test_deamons.log - INFO - test:  8
+2012-10-31 13:54:53,141 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:54:53,141 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:33,160 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:33,160 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:33,182 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,182 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:33,182 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:33,182 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:33,201 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,202 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:33,202 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:33,202 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:33,215 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,216 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:33,216 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:33,216 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:33,234 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:33,234 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:33,235 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:33,235 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:33,235 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:33,235 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:33,250 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:33,251 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:33,251 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:33,267 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,267 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,268 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:33,268 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:33,269 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:33,269 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:33,269 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:33,269 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:33,294 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,294 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:33,294 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:33,294 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:33,295 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:33,295 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:33,295 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:33,295 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:33,311 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:33,311 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:33,311 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:33,311 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:58,455 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:58,455 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:58,486 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,486 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:58,486 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:58,486 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:58,503 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,504 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:58,504 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:58,504 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:58,517 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,517 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:58,517 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:58,517 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:58,534 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:58,534 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:58,534 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:58,534 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:56:58,534 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:58,534 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:58,548 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:58,561 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:56:58,562 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:58,562 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:56:58,581 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,581 - test_deamons.log - INFO - test:  2
+2012-10-31 13:56:58,581 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:58,581 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:56:58,582 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:58,582 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:56:58,582 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:58,582 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:56:58,596 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:58,596 - test_deamons.log - INFO - test:  8
+2012-10-31 13:56:58,596 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:56:58,596 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:57:22,471 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:57:22,471 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:57:22,498 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,498 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:57:22,498 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:57:22,498 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:57:22,516 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,516 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:57:22,516 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:57:22,516 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:57:22,530 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,531 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:57:22,531 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:57:22,531 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:57:22,550 - test_deamons.log - INFO - test:  8
+2012-10-31 13:57:22,551 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:57:22,551 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:57:22,551 - test_deamons.log - INFO - added param:  nova
+2012-10-31 13:57:22,551 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:57:22,551 - test_deamons.log - INFO - execute command:  ps aux|egrep -i nova|wc -l
+2012-10-31 13:57:22,568 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,568 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - Not running :  nova
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - added param:  keystone
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:57:22,569 - test_deamons.log - INFO - execute command:  ps aux|egrep -i keystone|wc -l
+2012-10-31 13:57:22,586 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,586 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,589 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:57:22,589 - test_deamons.log - INFO - Not running :  keystone
+2012-10-31 13:57:22,591 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:57:22,591 - test_deamons.log - INFO - added param:  quantum-server
+2012-10-31 13:57:22,592 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:57:22,592 - test_deamons.log - INFO - execute command:  ps aux|egrep -i quantum-server|wc -l
+2012-10-31 13:57:22,606 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,606 - test_deamons.log - INFO - test:  2
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - Not running :  quantum-server
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - added param:  apache2
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:57:22,607 - test_deamons.log - INFO - execute command:  ps aux|egrep -i apache2|wc -l
+2012-10-31 13:57:22,620 - test_deamons.log - INFO - test:  8
+2012-10-31 13:57:22,620 - test_deamons.log - INFO - test:  8
+2012-10-31 13:57:22,620 - test_deamons.log - DEBUG - Running :  apache2
+2012-10-31 13:57:22,620 - test_deamons.log - DEBUG - Running :  apache2

@@ -9,7 +9,7 @@ import time
 
 
 class Benchmark (object): 
-    debug = 1
+    debug = False
     image_id = ""
     vm_name = ""
     vm_amount = 0
@@ -35,12 +35,12 @@ class Benchmark (object):
             identifier = str(i)
             cmd = '/usr/bin/nova boot --flavor '+self.flavor+' --image '+self.image_id+' '+self.vm_name + "_"+ identifier
             print cmd
-            if(not self.debug): print os.system(cmd)
+            if self.debug==False: print os.system(cmd)
             sys.stdout.flush() 
                    
             cmd = '/usr/bin/nova  show '+ self.vm_name + '_' + identifier
-            if(not self.debug): print os.system(cmd)
             print cmd
+            if self.debug==False: print os.system(cmd)
             sys.stdout.flush()
             time.sleep(self.wait_time);
             
@@ -61,7 +61,7 @@ class Benchmark (object):
         #print pattern
         #sys.stdout.flush() 
         s = self.listVMs()
-        for line in s.splitlines():
+        for line in str(s).splitlines(): # casting fuer den Fall, dass integer werte geliefert werden, dann fehlermeldung ohne cast
            #print pat.findall(line)
            match = re.search(pattern, line)
            #print "line:"+line
@@ -73,7 +73,10 @@ class Benchmark (object):
         
     def listVMs(self):
         cmd = '/usr/bin/nova list'
-        return os.system(cmd)
+        print cmd
+        started_vms = ""
+        started_vms =  os.popen(cmd).read()
+        return started_vms
             
             
     def setDeleteFile(self, filename):
