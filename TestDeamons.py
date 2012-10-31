@@ -13,8 +13,7 @@ class TestDeamons:
     log = None
     
     def __init__(self):
-        self.__setLogging()
-        
+        self.__setLogging()       
     
         
     def setDeamon(self, param):
@@ -81,6 +80,7 @@ if type == "cloud-controller":
     TD1.setDeamon("nova-consoleauth")
     TD1.setDeamon("mysql")
     TD1.setDeamon("rabbitmq")
+    TD1.setDeamon("apache2")
 
 if type == "compute-node":
     print "\nTest deamons on Openstack Compute Node installation:\n"
@@ -105,6 +105,7 @@ if type == "all":
     TD1.setDeamon("nova-consoleauth")
     TD1.setDeamon("mysql")
     TD1.setDeamon("rabbitmq")
+    TD1.setDeamon("apache2")
 
 if folsom==True:
     TD1.setDeamon("quantum")
